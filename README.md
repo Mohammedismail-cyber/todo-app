@@ -1,4 +1,4 @@
-# Todo // Terminal Console
+# Todo List app // Terminal Console
 
 A fast, modern single-page Todo application engineered with a **"terminal-meets-product"** aesthetic. Features a luminous-green on near-black palette, hairline console dividers, subtle reactive glow effects, and a resilient Express + TypeScript backend.
 
